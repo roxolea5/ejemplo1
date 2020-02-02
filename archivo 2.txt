@@ -1,0 +1,9 @@
+cambios 2: archivo 2
+
+
+cambio ejemplo 3: linea 1
+
+cambio ejemplo 4: linea 1
+
+cambio ejemplo 5: cambiando codigo por instrucciones.
+// esto lo cambie por instrucciones de X.
